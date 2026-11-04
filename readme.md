@@ -30,7 +30,7 @@
 <br/><br/>
 
 <!-- 04. SOCIAL BUTTONS -->
-<a href="YOUR_TELEGRAM_URL">
+<a href="t.me/kkoji_o">
   <img src="https://img.shields.io/badge/TELEGRAM-D64473?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://discord.gg/ptpS3bj6">
