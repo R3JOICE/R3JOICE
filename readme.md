@@ -7,10 +7,10 @@
 <br/>
 
 <!-- 02. TEXT -->
-<h2>YII / VEILLERY</h2>
+<h2>♯⋮ 𝄞 𝐅ⱺ𝗋𝗍υ𐓣α 𝐘𝗂𝗂 ༉ .ᐟ</h2>
 
 <p>
-  <i>somewhere between the shore and the deep.</i>
+  <i>"No flower ever endures the fall… or so they say. Hongyuan's certainly not changed one bit. Except for its roads, I suppose.".</i>
 </p>
 
 <p>
@@ -33,7 +33,7 @@
 <a href="YOUR_TELEGRAM_URL">
   <img src="https://img.shields.io/badge/TELEGRAM-526F80?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="YOUR_DISCORD_URL">
+<a href="https://discord.gg/ptpS3bj6">
   <img src="https://img.shields.io/badge/DISCORD-526F80?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="YOUR_STRAWPAGE_URL">
