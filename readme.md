@@ -1,58 +1,50 @@
-# readme
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Profile banner">
+<!-- 01. BANNER -->
+<img src="YOUR_BANNER_URL" width="100%" />
 
-<br>
+<br/>
 
-✧･ﾟ: *✧･ﾟ:* &nbsp; ♡ &nbsp; *:･ﾟ✧*:･ﾟ✧
+<!-- 02. TEXT -->
+<h2>YII / VEILLERY</h2>
 
-**WELCOME TO MY LITTLE CORNER**
+<p>
+  <i>somewhere between the shore and the deep.</i>
+</p>
 
-*just another soul wandering around.*
+<p>
+  HE / HIM &nbsp; · &nbsp; SX4W3 478 &nbsp; · &nbsp; INFP / ISFP-T
+</p>
 
-♡ &nbsp; she/her &nbsp; ♡ &nbsp; artist &nbsp; ♡
+<p>
+  Artist, writer and collector of fictional tragedies.<br/>
+  Fond of the sea, complicated characters and unfinished stories.
+</p>
 
----
+<br/>
 
-<img src="./divider.png" width="80%" alt="Decorative divider">
+<!-- 03. DECORATIVE DIVIDER -->
+<img src="YOUR_DIVIDER_URL" width="85%" />
 
-</div>
+<br/><br/>
 
-## ♡ ABOUT ME
+<!-- 04. SOCIAL BUTTONS -->
+<a href="YOUR_TELEGRAM_URL">
+  <img src="https://img.shields.io/badge/TELEGRAM-526F80?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="YOUR_DISCORD_URL">
+  <img src="https://img.shields.io/badge/DISCORD-526F80?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="YOUR_STRAWPAGE_URL">
+  <img src="https://img.shields.io/badge/STRAWPAGE-526F80?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-> "A little bit of chaos, a little bit of poetry."
+<br/><br/>
 
-- Name: YOUR NAME / NICKNAME
-- Pronouns: YOUR PRONOUNS
-- Interests: Drawing, music, writing...
-- Currently into: YOUR CURRENT FANDOM
+<!-- 05. ISHMAEL / MAIN IMAGE -->
+<img src="YOUR_ISHMAEL_IMAGE_URL" width="100%" />
 
-## ✧ INTERESTS
-
-♡ Art & illustration
-
-♡ Music & literature
-
-♡ Games & fictional characters
-
-♡ Gothic aesthetics & vintage things
-
-## ♡ FANDOMS
-
-- Fandom 01
-- Fandom 02
-- Fandom 03
-
-<div align="center">
-
-<img src="./stamps.gif" width="100%" alt="Decorative stamps">
-
----
-
-*thank you for visiting.*
-
-♡ made with love & a little bit of chaos ♡
+<br/>
 
 </div>
