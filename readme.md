@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- 01. BANNER -->
-<img src="YOUR_BANNER_URL" width="100%" />
+<img src="banner.png" width="100%" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 <br/>
 
 <!-- 03. DECORATIVE DIVIDER -->
-<img src="YOUR_DIVIDER_URL" width="85%" />
+<img src="quote.png" width="85%" />
 
 <br/><br/>
 
@@ -43,7 +43,7 @@
 <br/><br/>
 
 <!-- 05. ISHMAEL / MAIN IMAGE -->
-<img src="YOUR_ISHMAEL_IMAGE_URL" width="100%" />
+<img src="wei.png" width="100%" />
 
 <br/>
 
