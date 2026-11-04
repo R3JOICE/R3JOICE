@@ -18,9 +18,7 @@
 </p>
 
 <p>
-  extremely socially anxious, awkward at all times. c+h always welcome!! i might bite you, but only affectionately. ♡
-
-yumeship with: ishmael, v. makarov, scp-2521. mostly mirror-sharing. btw i don't hate my doubles, just prefer not to interact with them. nothing personal!
+  socially anxious, awkward at all times. c+h always welcome!! i might bite you, but only affectionately. ♡
 
 dni: proshippers, darkshippers, incest likers/apologists, pro-life, pro-ai, zionists & zionist sympathizers, epstein joke enjoyers, and other questionable individuals. you know the drill.<br/>
 </p>
