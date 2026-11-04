@@ -31,13 +31,13 @@
 
 <!-- 04. SOCIAL BUTTONS -->
 <a href="YOUR_TELEGRAM_URL">
-  <img src="https://img.shields.io/badge/TELEGRAM-526F80?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/TELEGRAM-D64473?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://discord.gg/ptpS3bj6">
-  <img src="https://img.shields.io/badge/DISCORD-526F80?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/DISCORD-D64473?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="YOUR_STRAWPAGE_URL">
-  <img src="https://img.shields.io/badge/STRAWPAGE-526F80?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/STRAWPAGE-D64473?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
