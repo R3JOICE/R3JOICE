@@ -32,7 +32,16 @@ be decent, respect boundaries, don't be weird. that's pretty much it. i don't bi
 <!-- 03. DECORATIVE DIVIDER -->
 <img src="quote.png" width="85%" />
 
-<br/><br/>
+<!-- VISIT IDFK -->
+
+<p align="center">
+  ✦ · ───────── · ✦
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=R3JOICE&label=visitors&color=D64473&style=flat"/>
+  <br/>
+  ✦ · ───────── · ✦
+</p>
+
 
 <!-- 04. SOCIAL BUTTONS -->
 <a href="https://t.me/kkoji_o">
