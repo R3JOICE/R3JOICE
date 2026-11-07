@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<!-- 01. BANNER -->
+<!-- BANNER -->
 <img src="banner.png" width="100%" />
 
 <br/>
 
-<!-- 02. TEXT -->
+<!-- TEXT -->
 <h2>♯⋮ 𝄞 𝐅ⱺ𝗋𝗍υ𐓣α 𝐘𝗂𝗂 ༉ .ᐟ</h2>
 
 <p>
@@ -29,10 +29,10 @@ be decent, respect boundaries, don't be weird. that's pretty much it. i don't bi
 
 <br/>
 
-<!-- 03. DECORATIVE DIVIDER -->
+<!-- DECORATIVE DIVIDER -->
 <img src="quote.png" width="85%" />
 
-<!-- VISIT IDFK -->
+<!-- VISIT BOX I GUESS -->
 
 <p align="center">
   ✦ · ───────── · ✦
@@ -43,7 +43,7 @@ be decent, respect boundaries, don't be weird. that's pretty much it. i don't bi
 </p>
 
 
-<!-- 04. SOCIAL BUTTONS -->
+<!-- SOCIAL BUTTONS -->
 <a href="https://t.me/kkoji_o">
   <img src="https://img.shields.io/badge/TELEGRAM-D64473?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -56,7 +56,7 @@ be decent, respect boundaries, don't be weird. that's pretty much it. i don't bi
 
 <br/><br/>
 
-<!-- 05. ISHMAEL / MAIN IMAGE -->
+<!-- MAIN IMAGE -->
 <img src="wei.png" width="100%" />
 
 <br/>
