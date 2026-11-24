@@ -21,8 +21,6 @@
 
 ⟡ c+h is always appreciated. feel free to approach, i promise i'm mostly harmless. occasional affectionate biting may occur.
 
-⟡ currently rotating ishmael, v. makarov & scp-2521 in my head. yumeshipper, mostly mirror-sharing. doubles aren't unwelcome, i simply prefer admiring from a distance.
-
 ⟡ house rules
 be decent, respect boundaries, don't be weird. that's pretty much it. i don't bite strangers. usually.<br/>
 </p>
